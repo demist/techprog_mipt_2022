@@ -20,12 +20,16 @@
 
 ## :white_check_mark: [Лекция №0](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%201.pdf)
 
+[*запись лекции*](https://youtu.be/9WmPY_FDGsI)
+
 - План курса
 - Правила оценки
 - Информация о заданиях
 - Контрольные мероприятия
 
 ## :white_check_mark: [Лекция №1](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%201.pdf)
+
+[*запись лекции*](https://youtu.be/9WmPY_FDGsI)
 
 ### Принципы проектирования ПО, часть 1
 
@@ -45,6 +49,8 @@
 
 ## :white_check_mark: [Лекция №2](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%202.pdf)
 
+[*запись лекции*](https://youtu.be/DIjRE-WxVrQ)
+
 ### Принципы проектирования ПО, часть 2
 
 - Принципы SOLID
@@ -61,6 +67,8 @@
 > [Лекция Роберта *Uncle Bob* Мартина  про SOLID](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 
 ## :white_check_mark: [Лекция №3](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%203.pdf)
+
+[*запись лекции*](https://youtu.be/H36N153odgY)
 
 ### Основные диаграммы UML
 
