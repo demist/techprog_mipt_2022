@@ -93,7 +93,9 @@
 
 > [UML Cheat Sheet](https://www.guru99.com/uml-cheatsheet-reference-guide.html)
 
-## :fire: [Лекция №4](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%204.pdf)
+## :white_check_mark: [Лекция №4](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%204.pdf)
+
+[*запись лекции*](https://youtu.be/7ItLSXeeTkE)
 
 ### Этапы развития проекта
 
@@ -109,7 +111,7 @@
 - Сопровождение 
 - Вывод из эксплуатации
 
-## :soon: Лекция №5
+## :fire: Лекция №5
 
 ### Методологии разработки ПО
 
