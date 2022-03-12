@@ -134,7 +134,7 @@
 
 > [Статья про методологии разработки](https://acodez.in/12-best-software-development-methodologies-pros-cons/)
 
-## :fire: Лекция №6
+## :fire: [Лекция №6](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%206.pdf)
 
 ### Отладка ПО, ч.1: работа с ошибками ПО
 
