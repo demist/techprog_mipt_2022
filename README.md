@@ -111,7 +111,7 @@
 - Сопровождение 
 - Вывод из эксплуатации
 
-## :fire: [Лекция №5](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%205.pdf)
+## :white_check_mark: [Лекция №5](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%205.pdf)
 
 ### Методологии разработки ПО
 
@@ -132,7 +132,7 @@
 
 > [Статья про методологии разработки](https://acodez.in/12-best-software-development-methodologies-pros-cons/)
 
-## :soon: Лекция №6
+## :fire: Лекция №6
 
 ### Отладка ПО, ч.1: работа с ошибками ПО
 
@@ -306,4 +306,4 @@
 
 [0]:https://img.shields.io/badge/year-2022-blue
 [1]:https://img.shields.io/badge/status-running-green
-[2]:https://progress-bar.dev/33/
+[2]:https://progress-bar.dev/42/
