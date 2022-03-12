@@ -113,6 +113,8 @@
 
 ## :white_check_mark: [Лекция №5](https://github.com/demist/techprog_mipt_2022/blob/main/slides/ТП%20МФТИ%202022%2C%20лекция%205.pdf)
 
+[*запись лекции*](https://t.me/c/1587908103/33)
+
 ### Методологии разработки ПО
 
 - Основные понятия
