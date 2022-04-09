@@ -277,7 +277,7 @@
 - Метод дедукции
 - Обратное движение по алгоритму
 
-## :white_check_mark: Лекция №8
+## :white_check_mark: [Лекция №8](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%208.pdf)
 
 [*запись лекции*](https://t.me/c/1587908103/80)
 
@@ -299,7 +299,7 @@
 	- Блок-схема
 	- Контрольный листок
 
-## :fire: Лекция №9
+## :fire: [Лекция №9](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.pdf)
 
 ### Управление качеством ПО, ч.2
 
