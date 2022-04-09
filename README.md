@@ -277,7 +277,7 @@
 - Метод дедукции
 - Обратное движение по алгоритму
 
-## :fire: Лекция №8
+## :white_check_mark: Лекция №8
 
 ### Управление качеством ПО, ч.1
 
@@ -297,7 +297,7 @@
 	- Блок-схема
 	- Контрольный листок
 
-## :soon: Лекция №9
+## :fire: Лекция №9
 
 ### Управление качеством ПО, ч.2
 
@@ -396,4 +396,4 @@
 
 [0]:https://img.shields.io/badge/year-2022-blue
 [1]:https://img.shields.io/badge/status-running-green
-[2]:https://progress-bar.dev/58/
+[2]:https://progress-bar.dev/67/
