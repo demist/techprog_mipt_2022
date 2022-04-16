@@ -299,7 +299,7 @@
 	- Блок-схема
 	- Контрольный листок
 
-## :fire: [Лекция №9](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.pdf)
+## :white_check_mark: [Лекция №9](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.pdf)
 
 ### Управление качеством ПО, ч.2
 
@@ -398,4 +398,4 @@
 
 [0]:https://img.shields.io/badge/year-2022-blue
 [1]:https://img.shields.io/badge/status-running-green
-[2]:https://progress-bar.dev/67/
+[2]:https://progress-bar.dev/75/
