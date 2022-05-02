@@ -344,6 +344,8 @@
 
 ## :white_check_mark: [Лекция №11](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011.pdf)
 
+[*запись лекции*](https://t.me/c/1587908103/109)
+
 ### Архитектурные паттерны
 
 - Классификация архитектуры ПО
