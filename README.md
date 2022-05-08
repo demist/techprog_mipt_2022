@@ -372,7 +372,9 @@
 - Типичная архитектура веб-сервиса
 - Типичная архитектура нагруженной информационной системы
 
-## :fire: [Лекция №12](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pdf)
+## :white_check_mark: [Лекция №12](https://github.com/demist/techprog_mipt_2022/blob/main/slides/%D0%A2%D0%9F%20%D0%9C%D0%A4%D0%A2%D0%98%202022%2C%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pdf)
+
+[*запись лекции*](https://t.me/c/1587908103/120)
 
 ### Базовые понятия о языках программирования
 
@@ -403,5 +405,5 @@
 	- Явная / неявная типизация
 
 [0]:https://img.shields.io/badge/year-2022-blue
-[1]:https://img.shields.io/badge/status-running-green
-[2]:https://progress-bar.dev/92/
+[1]:https://img.shields.io/badge/status-exam-yellow
+[2]:https://progress-bar.dev/100/
